@@ -1,0 +1,6 @@
+framework module sampleOrgLib {
+  umbrella header "sampleOrgLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

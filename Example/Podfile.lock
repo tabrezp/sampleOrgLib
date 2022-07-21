@@ -1,0 +1,16 @@
+PODS:
+  - sampleOrgLib (0.1.0)
+
+DEPENDENCIES:
+  - sampleOrgLib (from `../`)
+
+EXTERNAL SOURCES:
+  sampleOrgLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  sampleOrgLib: 57d2a7f6b50016f2d766bd24c688c063d9934170
+
+PODFILE CHECKSUM: 954658b73306c605125c5969874f5f0ee38ab389
+
+COCOAPODS: 1.11.2
